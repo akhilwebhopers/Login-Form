@@ -202,7 +202,7 @@ class Signup extends Component {
 
         // ----------------------API------------------------------
 
-        fetch ('http://clientapps.webhopers.com:3333/api/app/user',{
+        fetch ('your api',{
             method: 'PUT',
             body: data
         })
