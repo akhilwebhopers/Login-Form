@@ -3,6 +3,9 @@
 
 In the project directory, you can run:
 
+![alt text](https://drive.google.com/file/d/1O1aG0SV18AxNlPfo0bgMV6eWfg09Jm7T/view?usp=sharing)
+
+
 ### `npm start`
 
 Runs the app in the development mode.\
